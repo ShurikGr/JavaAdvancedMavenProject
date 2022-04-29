@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="6" failures="0" name="TestSuite" time="0.011" errors="0" skipped="0">
+  <properties>
+    <property name="java.vendor" value="International Business Machines Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.runtime.version" value="11.0.13+8"/>
+    <property name="user.name" value="admin"/>
+    <property name="java.compiler" value="j9jit29"/>
+    <property name="os.encoding" value="UTF-8"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="com.ibm.util.extralibs.properties" value=""/>
+    <property name="com.ibm.jcl.checkClassPath" value=""/>
+    <property name="user.language" value="ru"/>
+    <property name="com.ibm.oti.vm.bootstrap.library.path" value="/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home/lib/default:/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home/lib"/>
+    <property name="idea.version" value="2021.3.2"/>
+    <property name="sun.boot.library.path" value="/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home/lib/default:/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home/lib"/>
+    <property name="classworlds.conf" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/bin/m2.conf"/>
+    <property name="jdk.extensions.version" value="11.0.13.0"/>
+    <property name="java.version" value="11.0.13"/>
+    <property name="user.timezone" value="Asia/Nicosia"/>
+    <property name="com.ibm.system.agent.path" value="/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home/lib"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="com.ibm.oti.vm.library.version" value="29"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="maven.conf" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/conf"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="user.country" value="RU"/>
+    <property name="java.home" value="/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home"/>
+    <property name="java.vm.info" value="JRE 11 Mac OS X amd64-64-Bit Compressed References 20211021_224 (JIT enabled, AOT enabled)
+OpenJ9   - e1e72c497
+OMR      - 299b6a2d2
+JCL      - 2d83aa3b76 based on jdk-11.0.13+8"/>
+    <property name="os.version" value="10.14.6"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="openj9-0.29.0"/>
+    <property name="user.variant" value=""/>
+    <property name="maven.ext.class.path" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven-event-listener.jar"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="jdk.extensions.name" value="Extensions for OpenJDK for Eclipse OpenJ9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="ibm.signalhandling.sigint" value="true"/>
+    <property name="user.home" value="/Users/admin"/>
+    <property name="com.ibm.cpu.endian" value="little"/>
+    <property name="java.version.date" value="2021-10-19"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="ibm.signalhandling.sigchain" value="true"/>
+    <property name="java.library.path" value="/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home/lib/default:/Users/admin/Library/Java/JavaVirtualMachines/semeru-11.0.13/Contents/Home/lib:/usr/lib"/>
+    <property name="java.vendor.url" value="https://www.ibm.com/semeru-runtimes"/>
+    <property name="java.vm.vendor" value="Eclipse OpenJ9"/>
+    <property name="java.fullversion" value="11.0.13+8
+JRE 11 Mac OS X amd64-64-Bit Compressed References 20211021_224 (JIT enabled, AOT enabled)
+OpenJ9   - e1e72c497
+OMR      - 299b6a2d2
+JCL      - 2d83aa3b76 based on jdk-11.0.13+8"/>
+    <property name="maven.home" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3"/>
+    <property name="java.runtime.name" value="IBM Semeru Runtime Open Edition"/>
+    <property name="sun.java.command" value="org.codehaus.classworlds.Launcher -Didea.version=2021.3.2 test"/>
+    <property name="java.class.path" value="/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds.license:/Applications/IntelliJ IDEA CE.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.6.0.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.io.tmpdir" value="/var/folders/p2/813cf1px1d14d23z0yrjgt580000gn/T/"/>
+    <property name="java.vendor.url.bug" value="https://github.com/ibmruntimes/Semeru-Runtimes/issues"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/admin/IdeaProjects/JavaAdvancedMavenProject"/>
+    <property name="ibm.system.encoding" value="UTF-8"/>
+    <property name="os.arch" value="x86_64"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
+    <property name="ibm.signalhandling.rs" value="false"/>
+    <property name="user.dir" value="/Users/admin/IdeaProjects/JavaAdvancedMavenProject"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Eclipse OpenJ9 VM"/>
+    <property name="com.ibm.oti.shared.enabled" value="false"/>
+    <property name="com.ibm.vm.bitmode" value="64"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="com.ibm.oti.configuration" value="scar"/>
+    <property name="java.vendor.version" value="11.0.13.0"/>
+  </properties>
+  <testcase classname="SummOfArrayTest" name="testSummOfArrayEmptyArr" time="0.007"/>
+  <testcase classname="SummOfArrayTest" name="testSummOfArrayHappyPath" time="0"/>
+  <testcase classname="SummOfArrayTest" name="testSummOfArrayOneData" time="0"/>
+  <testcase classname="SummOfArrayTest" name="testSummOfArrayZero" time="0"/>
+  <testcase classname="MainTest" name="testAbbr4" time="0.004"/>
+  <testcase classname="MainTest" name="testAbbr8" time="0"/>
+</testsuite>
